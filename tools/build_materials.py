@@ -4,15 +4,15 @@ Writes lessons/01-vstup/materialy.md and the generated folder lessons/01-vstup/m
   brand-day -> ../../../brand-day   (symlink; mdBook copies it into the book)
   zip/      brand-day.zip + one archive per top-level folder (paths rooted at brand-day/)
   prev/     thumbnails (photos, PNG, SVG, PDF first page, .kra merged image)
-Run before `mdbook build`. Unchanged files are skipped.
+Run locally before `mdbook build` and commit the result (Inkscape/poppler/Pillow are only needed here);
+zip/ is not committed: `--zips` rebuilds only the archives (stdlib only, used by the Pages workflow).
+Unchanged files are skipped.
 """
 import html, io, os, re, subprocess, sys, zipfile
-from PIL import Image
 
 sys.path.insert(0, os.path.dirname(__file__))
-import cap
 
-ROOT = cap.ROOT
+ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 SRC = os.path.join(ROOT, 'brand-day')
 LESSON = os.path.join(ROOT, 'lessons', '01-vstup')
 OUT = os.path.join(LESSON, 'materialy')
@@ -82,6 +82,8 @@ def thumb(rel):
     out_rel = os.path.join('prev', os.path.splitext(rel)[0] + ('.jpg' if photo else '.png'))
     dst = os.path.join(OUT, out_rel)
     if not fresh(dst, src):
+        from PIL import Image
+        import cap
         os.makedirs(os.path.dirname(dst), exist_ok=True)
         if ext in IMG:
             im = Image.open(src)
@@ -182,6 +184,16 @@ def photos_block(rels):
             + '\n'.join(parts))
 
 
+def zips():
+    """All archives the page links to: brand-day.zip, one per folder, one per photo theme."""
+    build_zip('brand-day', [r for f, _, _ in FOLDERS for r in files(f)])
+    for folder, _, _ in FOLDERS:
+        build_zip(folder, files(folder))
+    for d in sorted(os.listdir(os.path.join(SRC, 'photos'))):
+        if os.path.isdir(os.path.join(SRC, 'photos', d)):
+            build_zip(f'photos-{d}', files(f'photos/{d}'))
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     link = os.path.join(OUT, 'brand-day')
@@ -225,4 +237,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    zips() if '--zips' in sys.argv else main()

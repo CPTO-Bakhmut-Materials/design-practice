@@ -62,7 +62,7 @@ Gotcha: Inkscape CLI silently refuses to write into dot-folders (e.g. `.sandbox/
 - `annotate.py` — red frames/numbered badges; `redact()` hides real home path in file dialogs (always redact `/home/vperus…` path bars!).
 - `diag/common.py` + `d01..d05.py` — theory diagrams (SVG → PNG via Inkscape CLI). Add `d06.py`, `d07.py`, `d08.py`.
 - `build_poster.py` — Scribus script generating example poster/flyer: `scribus -g -ns -py tools/build_poster.py <workdir>` (run with sandbox HOME/XDG env, `QT_QPA_PLATFORM=offscreen`). `newDocument` page size is in mm.
-- `build_materials.py` — generates `lessons/01-vstup/materialy.md` (preview + download page for `brand-day/`) and the gitignored `lessons/01-vstup/materialy/` (symlink to brand-day, per-folder zips, thumbnails). Run before `mdbook build`; skips unchanged files.
+- `build_materials.py` — generates `lessons/01-vstup/materialy.md` (preview + download page for `brand-day/`) and `lessons/01-vstup/materialy/` (symlink to brand-day, thumbnails, .md→.txt copies: committed; `zip/` is gitignored). Run locally after changing `brand-day/` and commit; `--zips` rebuilds only the archives (stdlib, used by the Pages workflow).
 - `assets_preprocessor.py` — mdBook preprocessor (`[preprocessor.assets]` in book.toml): `{{asset templates/bryf-a4.svg}}` (or `{{asset … short}}` for the bare name) → link + ⬇ download button. Folder paths (`photos/01-kavobus/`) link to the materials page section and download its zip. Use it wherever a lesson needs a `brand-day/` file; warns at build time if the file is missing.
 - `export_pdf.py` — headless PDF/X-4 export with bleeds + crop marks.
 - Photo scripts: `photo_candidates_wm.py`, `wm_thumbs.py` (contact sheets in `.sandbox/cand-wm/`), `fetch_picks_wm.py` + `photo_picks_wm.json`.

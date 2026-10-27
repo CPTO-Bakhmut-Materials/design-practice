@@ -1,0 +1,72 @@
+﻿# Джерела фото
+
+Усі фото мають ліцензію CC0 (суспільне надбання) і взяті з Wikimedia Commons: їх можна використовувати, змінювати й публікувати без дозволу та без зазначення автора. Джерела вказано з поваги до авторів.
+
+| Файл | Назва | Автор | Джерело |
+|---|---|---|---|
+| 01-kavobus/kavovi-zerna-na-bilomu.jpg | Coffee-Beans | Evan-Amos | https://commons.wikimedia.org/w/index.php?curid=16894154 |
+| 01-kavobus/lyate-art.jpg | Close-up of Woman Holding Coffee Cup at Cafe (28217840617) | Chevanon Photography | https://commons.wikimedia.org/w/index.php?curid=99398997 |
+| 01-kavobus/furgon-vintazh.jpg | Hiroo Garden and Citroen food truck | Syced | https://commons.wikimedia.org/w/index.php?curid=106733903 |
+| 01-kavobus/chashka-i-zerna.jpg | Coffee beans and white mug | Jessica Lewis | https://commons.wikimedia.org/w/index.php?curid=99398564 |
+| 01-kavobus/kapuchyno.jpg | Latte art 3 | Kim Sanso | https://commons.wikimedia.org/w/index.php?curid=70214602 |
+| 01-kavobus/kortado.jpg | Caffe Latte at Pulse Cafe | B adger1 | https://commons.wikimedia.org/w/index.php?curid=146356511 |
+| 01-kavobus/zerna-tekstura.jpg | Equal Exchange coffee beans | Mx. Granger | https://commons.wikimedia.org/w/index.php?curid=90435771 |
+| 01-kavobus/espreso-i-zerna.jpg | White Ceramic Mug Filled With Coffee Beside Coffee Beans (43087322071) | Janko Ferlic | https://commons.wikimedia.org/w/index.php?curid=99399002 |
+| 02-fiksit/noutbuk-na-stoli.jpg | File:Apple-desk-laptop-macbook-pro (23699397893).jpg | www.Pixel.la Free Stock Photos | https://commons.wikimedia.org/w/index.php?curid=51440105 |
+| 02-fiksit/noutbuk-vseredyni.jpg | Teardown of MacBook Pro 16 inch laptop | Netha Hussain | https://commons.wikimedia.org/w/index.php?curid=109402907 |
+| 02-fiksit/kompiutery.jpg | A laptop and desktop machine before they were handed over to the Federal Parliament Commitee on National Security, Interior and Governance on 19th January 2014 at the AMISOM office. (12065737555) | AMISOM Public Information | https://commons.wikimedia.org/w/index.php?curid=56962117 |
+| 03-zeldostav/zelen.jpg | File:Chinese vegetable 027.jpg | Anna Frodesiak | https://commons.wikimedia.org/w/index.php?curid=17835760 |
+| 03-zeldostav/kurier-na-velosypedi.jpg | Delivery of Yakult drinks by bicycle, Fukushima City | Mikael Colville-Andersen | https://commons.wikimedia.org/w/index.php?curid=104048808 |
+| 03-zeldostav/ovochi.jpg | Vegan and vegetarian grocery shopping and cookery books | Unknown authorUnknown author | https://commons.wikimedia.org/w/index.php?curid=91776768 |
+| 04-piksel-plei/heimpady.jpg | Game Controllers | Ted Mielczarek | https://commons.wikimedia.org/w/index.php?curid=163731469 |
+| 04-piksel-plei/hravets.jpg | Headset computer | Wikideas1 | https://commons.wikimedia.org/w/index.php?curid=178646620 |
+| 04-piksel-plei/shakhivnytsia.jpg | Chess game Staunton No. 6 perfil view 5 | Wilfredor | https://commons.wikimedia.org/w/index.php?curid=147765075 |
+| 05-khvostyk/rudyi-kit.jpg | Munchkin cat 2 (cropped) | Tasy Hong | https://commons.wikimedia.org/w/index.php?curid=131022178 |
+| 05-khvostyk/chornyi-kit.jpg | Male Chocolate Burmese Cat | Psypherium | https://commons.wikimedia.org/w/index.php?curid=77710261 |
+| 05-khvostyk/kit-blakytni-ochi.jpg | File:Tabby cat with blue eyes-3336579.jpg | AdinaVoicu | https://commons.wikimedia.org/w/index.php?curid=68608952 |
+| 06-studdim/budynok.jpg | Keikino-two-story-apartment-building | Gruznov | https://commons.wikimedia.org/w/index.php?curid=170845372 |
+| 06-studdim/kimnata.jpg | Baituna al-Talhami Museum - living room - Kattan painting corner | Marsupium | https://commons.wikimedia.org/w/index.php?curid=71497456 |
+| 06-studdim/studenty.jpg | File:Arizona Geosciences Student Club 010.jpg | Frank Schulenburg | https://commons.wikimedia.org/w/index.php?curid=38671587 |
+| 07-smakolyk/korovai.jpg | Russian bread and salt | Olli Niemitalo | https://commons.wikimedia.org/w/index.php?curid=19227385 |
+| 07-smakolyk/bulochky.jpg | Spanish bread (Señorita bread) - Philippines 05 | Obsidian Soul | https://commons.wikimedia.org/w/index.php?curid=122925779 |
+| 07-smakolyk/kruasan.jpg | File:Morning-breakfast-croissant (24244330501).jpg | www.Pixel.la Free Stock Photos | https://commons.wikimedia.org/w/index.php?curid=51439293 |
+| 07-smakolyk/vypichka.jpg | Egg yolk pastry (20240913) | Fumikas Sagisavas | https://commons.wikimedia.org/w/index.php?curid=153139266 |
+| 08-velofiks/velosyped-hrafiti.jpg | KD-Matsushima-nichoume Station-Bicycle parking | ButuCC | https://commons.wikimedia.org/w/index.php?curid=14618013 |
+| 08-velofiks/velodoriizhka.jpg | File:Waiting at BRP & 213 St jeh.jpg | Jim.henderson | https://commons.wikimedia.org/w/index.php?curid=17597677 |
+| 08-velofiks/remont.jpg | Bike engineer is repairing the tire side of the bike | Bembety | https://commons.wikimedia.org/w/index.php?curid=147019483 |
+| 09-knyhoobmin/knyhy-na-polytsi.jpg | Books-bookshelf-bookstore-159778 | Pixabay | https://commons.wikimedia.org/w/index.php?curid=83495156 |
+| 09-knyhoobmin/stara-knyha.jpg | 1841 Book of Mormon open to title page | Prosfilaes | https://commons.wikimedia.org/w/index.php?curid=24986381 |
+| 10-fitstart/hanteli.jpg | Kurzhanteln 2 x 15 kg 1v2 | Singlespeedfahrer | https://commons.wikimedia.org/w/index.php?curid=107571092 |
+| 10-fitstart/hanteli-hrafika.jpg | Pair of 8kg dumbbells (Unsplash) | Cyril Saulnier c_reel | https://commons.wikimedia.org/w/index.php?curid=62290561 |
+| 11-linhvachat/vulytsia-havany.jpg | Architecture Travel City Street Tourism Cuba | SweetMellowChill | https://commons.wikimedia.org/w/index.php?curid=73675640 |
+| 11-linhvachat/dubrovnyk.jpg | Dubrovnik City Dubrovnik Croatia Travel | ivanbagic | https://commons.wikimedia.org/w/index.php?curid=73910198 |
+| 11-linhvachat/rozmova.jpg | Danny Kruger MP in conversation with John Howard, former Prime Minister of Australia, at ARC Forum 2023, 30 October 2023 | ARC Forum | https://commons.wikimedia.org/w/index.php?curid=141154470 |
+| 12-ekoshop/buriak.jpg | Beta vulgaris, San Francisco farmers market | Frank Schulenburg | https://commons.wikimedia.org/w/index.php?curid=30492997 |
+| 12-ekoshop/rynok.jpg | File:Haikou wholesale vegetable market - 05.JPG | Anna Frodesiak | https://commons.wikimedia.org/w/index.php?curid=29158256 |
+| 12-ekoshop/zelen.jpg | Vegetable Market 1 (Unsplash) | Peter Feghali peterf | https://commons.wikimedia.org/w/index.php?curid=61663928 |
+| 12-ekoshop/hlechyk.jpg | Jar, Tokoname ware, Heian period, 12th century, excavated at Mizoguchi, Futami-cho, Ise-shi, Mie, natural glaze - Tokyo National Museum - DSC05235 | Daderot | https://commons.wikimedia.org/w/index.php?curid=31386422 |
+| 13-kvitkovyi-kurier/lotos.jpg | Lotus flower (978659) | Hong Zhang (jennyzhh2008) | https://commons.wikimedia.org/w/index.php?curid=46646340 |
+| 13-kvitkovyi-kurier/rudbekiia.jpg | Rudbeckia hirta flower closeup | Dcoetzee | https://commons.wikimedia.org/w/index.php?curid=7411377 |
+| 13-kvitkovyi-kurier/biali-kvity.jpg | Catalpa ovata flowers | Peter coxhead | https://commons.wikimedia.org/w/index.php?curid=17394270 |
+| 13-kvitkovyi-kurier/buket.jpg | 22, Bridal bouquet (Unsplash) | Alvin Mahmudov alvinmahmudov | https://commons.wikimedia.org/w/index.php?curid=61711770 |
+| 14-heimzona/navushnyky-chervoni.jpg | Headphone-dynamic-color | Vijay Verma | https://commons.wikimedia.org/w/index.php?curid=112333603 |
+| 14-heimzona/navushnyky-hradiient.jpg | Headphone-dynamic-gradient | Vijay Verma | https://commons.wikimedia.org/w/index.php?curid=112333606 |
+| 14-heimzona/klaviatura-pidsvitka.jpg | Super key on ISO keyboard-2 | Telaneo | https://commons.wikimedia.org/w/index.php?curid=151276499 |
+| 14-heimzona/noutbuk.jpg | ThinkPad T430 (keyboard) | Vitaly Zdanevich | https://commons.wikimedia.org/w/index.php?curid=90335033 |
+| 15-foto-myt/dron.jpg | Quadcopter camera drone in flight | Josh Sorenson | https://commons.wikimedia.org/w/index.php?curid=69306462 |
+| 15-foto-myt/plivkova-kamera.jpg | Gorizont Russian camera 1967 | Andshel | https://commons.wikimedia.org/w/index.php?curid=13286833 |
+| 15-foto-myt/korobkova-kamera.jpg | 2014-365-233 The Basic Brownie Camera (14809795240) | cogdogblog | https://commons.wikimedia.org/w/index.php?curid=56942780 |
+| 15-foto-myt/kamera-chervona.jpg | File:Lytro light field camera - front.jpg | Dcoetzee | https://commons.wikimedia.org/w/index.php?curid=18468358 |
+| 16-smartkod/prohramistky.jpg | Adult-coding-collaborate-1181472 | Christina Morillo | https://commons.wikimedia.org/w/index.php?curid=78446680 |
+| 16-smartkod/noutbuk-zverkhu.jpg | File:Apple-desk-laptop-macbook-pro (23699397893).jpg | www.Pixel.la Free Stock Photos | https://commons.wikimedia.org/w/index.php?curid=51440105 |
+| 16-smartkod/bilyi-noutbuk.jpg | File:Coffee-desk-laptop-notebook (24244320481).jpg | www.Pixel.la Free Stock Photos | https://commons.wikimedia.org/w/index.php?curid=51439338 |
+| 16-smartkod/noutbuk-i-notatky.jpg | File:Desk-laptop-notebook-pen (23958719819).jpg | www.Pixel.la Free Stock Photos | https://commons.wikimedia.org/w/index.php?curid=51439776 |
+| 17-soniachna-stantsiia/paneli.jpg | Fixed Tilt Solar panel at Canterbury Municipal Building Canterbury New Hampshire | SayCheeeeeese | https://commons.wikimedia.org/w/index.php?curid=20061804 |
+| 17-soniachna-stantsiia/paneli-bilia-budynku.jpg | Solar panels at Franklyn Vale Homestead Mount Mort, Queensland | Shiftchange | https://commons.wikimedia.org/w/index.php?curid=41341508 |
+| 17-soniachna-stantsiia/inzhenerka.jpg | Carla solar panels 1 | Bristol Green Party | https://commons.wikimedia.org/w/index.php?curid=131612317 |
+| 17-soniachna-stantsiia/dakh-z-paneliamy.jpg | Tesla Solar Roof-2 | Wikideas1 | https://commons.wikimedia.org/w/index.php?curid=140258416 |
+| 00-fony-ta-tekstury/tsehla.jpg | Red-brick-wall-texture-1 | MartinThoma | https://commons.wikimedia.org/w/index.php?curid=34614108 |
+| 00-fony-ta-tekstury/derevo.jpg | 16 wood samples | Anonimski | https://commons.wikimedia.org/w/index.php?curid=32178383 |
+| 00-fony-ta-tekstury/kamin.jpg | Historical Texture of Kazerun 5 | Behnam9395 | https://commons.wikimedia.org/w/index.php?curid=151659083 |
+| 99-mokapy/stil-zverkhu.jpg | Retro items on white table (Unsplash) | Dmitry Ratushny ratushny | https://commons.wikimedia.org/w/index.php?curid=61659319 |
+| 99-mokapy/stina.jpg | Red and white walls (Unsplash) | Sérgio Rola sergio_rola | https://commons.wikimedia.org/w/index.php?curid=61881230 |
