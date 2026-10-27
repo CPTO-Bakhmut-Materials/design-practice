@@ -1,0 +1,17 @@
+{
+ "01-kavobus": {"chashka-na-bilomu": 2, "lyate": 7, "kavovi-zerna": 9, "furgon-vnochi": 16, "lyate-zverkhu": 22},
+ "02-fiksit": {"telefon-i-noutbuk": 3, "noutbuk-na-stoli": 10, "prystroi": 11, "noutbuk-i-notatnyk": 0},
+ "03-zeldostav": {"yashchyk-ovochiv": 0, "perets": 3, "velosyped-z-koshykom": 10, "koshyk-produktiv": 16},
+ "04-piksel-plei": {"heimpad-synii": 4, "heimpad-temnyi": 6, "knopky": 0},
+ "05-khvostyk": {"pes-na-bilomu": 4, "mops-sviato": 5, "kit": 14, "pes-i-kit": 8},
+ "06-studdim": {"kimnata": 0, "vitalnia": 8, "svitla-kimnata": 15, "bibliotechna": 13},
+ "07-smakolyk": {"khlib-na-doshtsi": 7, "kruasan": 11, "snidanok": 17, "vitryna": 22},
+ "08-velofiks": {"velosyped-z-koshykom": 2, "velosyped-bilia-stiny": 4, "zirochky": 7, "kermo": 0},
+ "09-knyhoobmin": {"vidkryta-knyha": 3, "polytsi": 5, "storinky": 6, "staryi-tom": 14},
+ "10-fitstart": {"hantel-i-krosivky": 10, "hanteli": 12, "strybok": 17, "yoha": 3},
+ "11-linhvachat": {"druzi": 9, "rozmova": 12, "mapa-podorozhi": 19, "litak": 16},
+ "12-ekoshop": {"med-u-banky": 1, "banka": 5, "banky-z-ukrashenniamy": 6, "rynok": 17},
+ "13-kvitkovyi-kurier": {"buket-na-siromu": 6, "buket-u-travi": 10, "vaza": 11, "tiulpany": 14},
+ "14-heimzona": {"heimpad": 2, "navushnyky": 12, "klaviatura": 18, "navushnyky-temni": 15},
+ "15-foto-myt": {"fotoaparat-zverkhu": 1, "fotohraf": 2, "kamera-na-doshtsi": 4, "fotohrafka": 7}
+}

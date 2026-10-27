@@ -1,0 +1,6 @@
+/* Brand fonts from brand-day/fonts (SIL OFL), bundled so the book works offline */
+@font-face { font-family: "Montserrat"; font-style: normal; font-weight: 400; font-display: swap; src: url("Montserrat-Regular.ttf") format("truetype"); }
+@font-face { font-family: "Montserrat"; font-style: italic; font-weight: 400; font-display: swap; src: url("Montserrat-Italic.ttf") format("truetype"); }
+@font-face { font-family: "Montserrat"; font-style: normal; font-weight: 700; font-display: swap; src: url("Montserrat-Bold.ttf") format("truetype"); }
+@font-face { font-family: "Unbounded"; font-style: normal; font-weight: 400; font-display: swap; src: url("Unbounded-Regular.ttf") format("truetype"); }
+@font-face { font-family: "Unbounded"; font-style: normal; font-weight: 700; font-display: swap; src: url("Unbounded-Bold.ttf") format("truetype"); }

@@ -1,0 +1,32 @@
+[book]
+title = "Бренд за день"
+description = "Покрокові уроки шестигодинного воркшопу з фірмового стилю: Inkscape, Krita, Scribus"
+authors = []
+language = "uk"
+src = "lessons"
+
+[build]
+build-dir = "book"
+# Keep links to README.md working (the default "index" preprocessor renames them to index.html)
+use-default-preprocessors = false
+
+[preprocessor.links]
+
+# {{asset path}} -> link + download button for brand-day/ files
+[preprocessor.assets]
+command = "python3 tools/assets_preprocessor.py"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "coal"
+additional-css = ["theme/brand.css"]
+additional-js = ["theme/checklists.js", "theme/draw.js"]
+smart-punctuation = false
+hash-files = false
+
+[output.html.fold]
+enable = true
+level = 0
+
+[output.html.search]
+enable = true

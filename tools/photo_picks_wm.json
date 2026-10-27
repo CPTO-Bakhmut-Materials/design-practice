@@ -1,0 +1,21 @@
+{
+ "01-kavobus": {"kavovi-zerna-na-bilomu": 8, "lyate-art": 5, "furgon-vintazh": 22, "chashka-i-zerna": 15, "kapuchyno": 25, "kortado": 26, "zerna-tekstura": 12, "espreso-i-zerna": 14},
+ "02-fiksit": {"noutbuk-na-stoli": 1, "noutbuk-vseredyni": 3, "kompiutery": 6},
+ "03-zeldostav": {"zelen": 7, "kurier-na-velosypedi": 8, "ovochi": 17},
+ "04-piksel-plei": {"heimpady": 2, "hravets": 5, "shakhivnytsia": 10},
+ "05-khvostyk": {"rudyi-kit": 2, "chornyi-kit": 3, "kit-blakytni-ochi": 7},
+ "06-studdim": {"budynok": 6, "kimnata": 9, "studenty": 19},
+ "07-smakolyk": {"korovai": 0, "bulochky": 7, "kruasan": 10, "vypichka": 18},
+ "08-velofiks": {"velosyped-hrafiti": 3, "velodoriizhka": 12, "remont": 13},
+ "09-knyhoobmin": {"knyhy-na-polytsi": 2, "stara-knyha": 4},
+ "10-fitstart": {"hanteli": 14, "hanteli-hrafika": 12},
+ "11-linhvachat": {"vulytsia-havany": 18, "dubrovnyk": 20, "rozmova": 4},
+ "12-ekoshop": {"buriak": 12, "rynok": 17, "zelen": 18, "hlechyk": 5},
+ "13-kvitkovyi-kurier": {"lotos": 0, "rudbekiia": 3, "biali-kvity": 6, "buket": 8},
+ "14-heimzona": {"navushnyky-chervoni": 9, "navushnyky-hradiient": 15, "klaviatura-pidsvitka": 18, "noutbuk": 22},
+ "15-foto-myt": {"dron": 0, "plivkova-kamera": 3, "korobkova-kamera": 4, "kamera-chervona": 6},
+ "16-smartkod": {"prohramistky": 2, "noutbuk-zverkhu": 16, "bilyi-noutbuk": 18, "noutbuk-i-notatky": 23},
+ "17-soniachna-stantsiia": {"paneli": 0, "paneli-bilia-budynku": 3, "inzhenerka": 7, "dakh-z-paneliamy": 19},
+ "00-fony-ta-tekstury": {"tsehla": 4, "derevo": 16, "kamin": 6},
+ "99-mokapy": {"stil-zverkhu": 20, "stina": 15}
+}
